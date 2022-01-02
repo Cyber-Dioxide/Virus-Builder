@@ -12,6 +12,8 @@ More scripts will be added with time
 *Once Virus is generated! exit the tool and type 'cp ifection.bat/sdcard' without quotes*
 
 # Screenshots
+![Screenshot (183)](https://user-images.githubusercontent.com/93708296/147873439-ad4668b9-179e-4944-889b-057975e0e2d9.png)
+![Screenshot (184)](https://user-images.githubusercontent.com/93708296/147873442-7f3e9653-01bb-4068-ba17-3703d14cf054.png)
 
 
 # Support
