@@ -1,0 +1,2 @@
+@Echo off
+pconfig /release

