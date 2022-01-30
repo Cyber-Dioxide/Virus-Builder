@@ -13,3 +13,4 @@ ly =  Style.BRIGHT+Fore.LIGHTYELLOW_EX
 y = Style.BRIGHT+Fore.YELLOW
 r = Style.BRIGHT+Fore.RED
 lr = Style.BRIGHT+Fore.LIGHTRED_EX
+w = Style.BRIGHT+Fore.LIGHTWHITE_EX
