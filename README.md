@@ -1,7 +1,11 @@
 # Virus-Builder
 This tool will generate a virus that can only destroy Windows computer. You can also configure to auto run in usb drive
 More scripts will be added with time
-
+# Service
+* To get your custom virus, crypto stealer, bitcoin stealer then dm me on instagram @coding_memz
+* To get your own custom hacking tool, dm me on instagram @coding_memz
+* Get the 14M passwords list containing worlds mostly used passwords, dm me on instagram @coding_memz.
+* Get the worlds best hacking course, dm me on instagram @coding_memz
 # Usage
 1. git clone https://github.com/Cyber-Dioxide/Virus-Builder/
 2. cd Virus-Builder
@@ -20,7 +24,7 @@ More scripts will be added with time
 
 
 # Support
-For any support/help, iam mostly active on Instagram @cyber_dioxide , @cyber_dioxide_
+For any support/help, iam mostly active on Instagram @cyber_dioxide , @coding_memz
 
 
 
