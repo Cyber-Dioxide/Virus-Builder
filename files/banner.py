@@ -1,38 +1,34 @@
 import os
+from rgbprint import gradient_print
+import platform
 
 logo = f"""
-██╗   ██╗██╗██████╗ ██╗   ██╗███████╗               
-██║   ██║██║██╔══██╗██║   ██║██╔════╝               
-██║   ██║██║██████╔╝██║   ██║███████╗               
-╚██╗ ██╔╝██║██╔══██╗██║   ██║╚════██║               
- ╚████╔╝ ██║██║  ██║╚██████╔╝███████║               
-  ╚═══╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚══════╝               
-                                                    
-██████╗ ██╗   ██╗██╗██╗     ██████╗ ███████╗██████╗ 
-██╔══██╗██║   ██║██║██║     ██╔══██╗██╔════╝██╔══██╗
-██████╔╝██║   ██║██║██║     ██║  ██║█████╗  ██████╔╝
-██╔══██╗██║   ██║██║██║     ██║  ██║██╔══╝  ██╔══██╗
-██████╔╝╚██████╔╝██║███████╗██████╔╝███████╗██║  ██║
-╚═════╝  ╚═════╝ ╚═╝╚══════╝╚═════╝ ╚══════╝╚═╝  ╚═╝                                                  
+            ██╗   ██╗██╗██████╗ ██╗   ██╗███████╗               
+            ██║   ██║██║██╔══██╗██║   ██║██╔════╝               
+            ██║   ██║██║██████╔╝██║   ██║███████╗               
+            ╚██╗ ██╔╝██║██╔══██╗██║   ██║╚════██║               
+             ╚████╔╝ ██║██║  ██║╚██████╔╝███████║               
+              ╚═══╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚══════╝               
+                                                                
+            ██████╗ ██╗   ██╗██╗██╗     ██████╗ ███████╗██████╗ 
+            ██╔══██╗██║   ██║██║██║     ██╔══██╗██╔════╝██╔══██╗
+            ██████╔╝██║   ██║██║██║     ██║  ██║█████╗  ██████╔╝
+            ██╔══██╗██║   ██║██║██║     ██║  ██║██╔══╝  ██╔══██╗
+            ██████╔╝╚██████╔╝██║███████╗██████╔╝███████╗██║  ██║
+            ╚═════╝  ╚═════╝ ╚═╝╚══════╝╚═════╝ ╚══════╝╚═╝  ╚═╝
+                 Author: Saad Khan | Cyber-Dioxide     (V4.0)
+        =============================================================
+                        [+] Telegram @coding_memz
+                        [+] Instagram @coding_memz                          
+        =============================================================
 """
 
-from files.colors import *
+
 
 
 def banner():
-    print(ran + logo)
+    gradient_print(logo , start_color='cyan' , end_color='yellow')
 
-    print(ran + "\n","|"+ Style.BRIGHT + Fore.LIGHTCYAN_EX,  "- " * 4, " [+] Follow me on Instagram @cyber-dioxide ", "- " * 4 + ran + "|")
-    print(ran +"\n", "|"+ Style.BRIGHT + Fore.LIGHTYELLOW_EX,  "- " * 4, " [+] Coding Instagram @cyber_dioxide_ ", "- " * 4+ran + "|")
-    print(ran +"\n", "|"+ Style.BRIGHT + Fore.LIGHTRED_EX,  "- " * 4, "[+] Github: https://github.com/Cyber-Dioxide/ ", "- " * 3+ran + "|")
-
-
-def banner2():
-
-
-    print(ran + "\n","|"+ Style.BRIGHT + Fore.LIGHTCYAN_EX,  "- " * 4, " [+] Follow me on Instagram @cyber_dioxide ", "- " * 4 + ran + "|")
-    print(ran + "\n","|"+ Style.BRIGHT + Fore.LIGHTYELLOW_EX, "- " * 4, " [+] Coding Instagram @cyber_dioxide_ ", "- " * 4+ran + "|")
-    print(ran + "\n","|"+ Style.BRIGHT + Fore.LIGHTRED_EX,  "- " * 4, "[+] Github: https://github.com/Cyber-Dioxide/ ", "- " * 3+ran + "|")
 
 def clear():
-    os.system("clear")
+    os.system("cls") if 'Windows' in platform.platform() else os.system("clear")
