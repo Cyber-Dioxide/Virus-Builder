@@ -16,15 +16,13 @@ More scripts will be added with time
 *Once Virus is generated! exit the tool and type 'cp ifection.bat/sdcard' without quotes*
 
 # Screenshots
-
-![Screenshot (255)](https://user-images.githubusercontent.com/93708296/160669545-e348b73f-3b6f-48e9-9cc6-38e3b29fd8f1.png)
-![Screenshot (256)](https://user-images.githubusercontent.com/93708296/160669622-f8775b26-185e-45e0-b287-2b0fefbf43b2.png)
+![Screenshot 2023-07-17 094039](https://github.com/Cyber-Dioxide/Virus-Builder/assets/93708296/630324a9-181b-4438-87ac-86b68cb04cea)
 
 
 
 
 # Support
-For any support/help, iam mostly active on Instagram @cyber_dioxide , @coding_memz
+For any support/help, iam mostly active on Instagram and Telegram @coding_memz
 
 
 
