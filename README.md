@@ -1,6 +1,9 @@
 # Virus-Builder
 This tool will generate a virus that can only destroy Windows computer. You can also configure to auto run in usb drive
 More scripts will be added with time
+# Telegram
+* Join Telegram Channel https://t.me/cyber_dioxid
+* Contact me on telegram @coding_memz
 # Service
 * To get your custom virus, crypto stealer, bitcoin stealer then dm me on instagram @coding_memz
 * To get your own custom hacking tool, dm me on instagram @coding_memz
