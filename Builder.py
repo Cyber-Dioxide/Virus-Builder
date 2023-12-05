@@ -134,7 +134,8 @@ def builder():
 
         sprint(ran + "\nPreparing...")
         call()
-
+    elif int(choice) > 20 and int(choice) <= 25:
+        sprint(g + "To buy premium viruses, contact Telegram @coding_memz. ")
 
     else:
         sprint(r + "Successfully typed INVALID OPTION! ")
@@ -147,5 +148,5 @@ yes = ['y', 'yes']
 cont = ""
 while cont not in no:
     builder()
-    cont = input(ran + "Do you want to continue? [y/n]:")
+    cont = input(ran + "Do you want to continue? [y/n]:").lower()
 
