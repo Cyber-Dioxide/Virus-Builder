@@ -4,6 +4,11 @@ More scripts will be added with time
 # Telegram
 * Join Telegram Channel https://t.me/cyber_dioxid
 * Contact me on telegram @coding_memz
+
+# Tutorial
+[Read Blog Here](https://www.cyberdioxide.com/2023/12/virus-creating-how-hackers-create-virus.html)
+
+
 # Service
 * To get your custom virus, crypto stealer, bitcoin stealer then dm me on instagram @coding_memz
 * To get your own custom hacking tool, dm me on instagram @coding_memz
