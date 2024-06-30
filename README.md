@@ -3,7 +3,7 @@ This tool will generate a virus that can only destroy Windows computer. You can 
 More scripts will be added with time
 # Telegram
 * Join Telegram Channel https://t.me/cyber_dioxid
-* Contact me on telegram @coding_memz
+* Contact me on telegram @cyberoxide
 
 # Tutorial
 [Read Blog Here](https://www.cyberdioxide.com/2023/12/virus-creating-how-hackers-create-virus.html)
@@ -30,7 +30,7 @@ More scripts will be added with time
 
 
 # Support
-For any support/help, iam mostly active on Instagram and Telegram @coding_memz
+For any support/help, iam mostly active on Telegram @cyberoxide
 
 
 
