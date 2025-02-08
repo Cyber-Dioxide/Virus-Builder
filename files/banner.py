@@ -16,7 +16,7 @@ logo = f"""
             ██╔══██╗██║   ██║██║██║     ██║  ██║██╔══╝  ██╔══██╗
             ██████╔╝╚██████╔╝██║███████╗██████╔╝███████╗██║  ██║
             ╚═════╝  ╚═════╝ ╚═╝╚══════╝╚═════╝ ╚══════╝╚═╝  ╚═╝
-                 Author: Saad Khan | Cyber-Dioxide     (V4.0)
+                 Author: Saad Khan | Cyber-Dioxide     (V5.0)
         =============================================================
                         [+] Telegram @cyberoxide
                         [+] Instagram @coding_memz                          
@@ -27,7 +27,7 @@ logo = f"""
 
 
 def banner():
-    gradient_print(logo , start_color='cyan' , end_color='yellow')
+    gradient_print(logo , start_color='white' , end_color='cyan')
 
 
 def clear():
