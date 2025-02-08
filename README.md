@@ -1,6 +1,9 @@
 # Virus-Builder
 This tool will generate a virus that can only destroy Windows computer. You can also configure to auto run in usb drive
 More scripts will be added with time
+
+![Screenshot 2025-02-08 234202](https://github.com/user-attachments/assets/e721ce68-3765-499a-b404-d862a1fa8ee9)
+
 # Telegram
 * Join Telegram Channel https://t.me/cyox2
 * Contact me on [Telegram](https://www.cyox2.com/p/contact.html)
@@ -24,8 +27,7 @@ More scripts will be added with time
 *Once Virus is generated! exit the tool and type 'cp ifection.bat/sdcard' without quotes*
 
 # Screenshots
-![Screenshot 2023-07-17 094039](https://github.com/Cyber-Dioxide/Virus-Builder/assets/93708296/630324a9-181b-4438-87ac-86b68cb04cea)
-
+![Screenshot 2025-02-08 234133](https://github.com/user-attachments/assets/939fb8e5-4609-4327-bf18-46eb79f179ba)
 
 
 
